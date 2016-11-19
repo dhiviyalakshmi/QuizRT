@@ -1,0 +1,18 @@
+{
+  "name": "quizrt",
+  "description": "gaming app which has three quiz categories like classic quiz,adaptive quiz,jeopardy quiz",
+  "main": "./Client/App.jsx",
+  "authors": [
+    "dhiviyalakshmi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Quiz"
+  ],
+  "homepage": "https://github.com/dhiviyalakshmi/Assignments",
+  "private": true,
+  "dependencies": {
+    "react": "^15.3.2",
+    "babel": "^5.8.38"
+  }
+}
